@@ -18,6 +18,7 @@ jobs:
        with:
         filename: metrics.plugin.leetcode.svg
         token: NOT_NEEDED
-        base: "yusheng"
+        base: ""
         plugin_leetcode: yes
         plugin_leetcode_sections: solved, skills, recent
+        plugin_leetcode_user: yusheng
