@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg" alt="Metrics" width="400"></p>
 <!--
 **zhangyusheng211/zhangyusheng211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
