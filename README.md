@@ -4,7 +4,7 @@
 <p align="center">This is my contribution-grid photo. I hope that i can do more contribute work in the fiture.</p>
 <p align="center"><img src="https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg" alt="Metrics" width="400"></p>
 
-<p align="center"><img src="[https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/0-profile-details.svg)" alt="Metrics" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Metrics" width="400"></p>
 <!--
 <p align="center"><img src="https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg" alt="Metrics" width="400"></p>
