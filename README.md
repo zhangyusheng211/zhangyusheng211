@@ -9,7 +9,7 @@
 <p><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/1-repos-per-language.svg" class="ttimg"/><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/2-most-commit-language.svg" class="ttimg" /></p>
 <style>
   .ttimg{
-  float:left;  
+  float:align;  
   }
 </style>
 
