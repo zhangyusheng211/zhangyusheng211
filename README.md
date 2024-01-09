@@ -5,8 +5,8 @@
 <p align="center"><img src="https://github.com/zhangyusheng211/zhangyusheng211/blob/output/github-contribution-grid-snake.svg" alt="Metrics" width="500"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Metrics" width="500"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/1-repos-per-language.svg" style="float:right" width="300" /><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/2-most-commit-language.svg" width="300" /></p> 
-<p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/3-stats.svg" width="300" style="float:right"/><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/4-productive-time.svg" width="300" /></p> 
+<p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/1-repos-per-language.svg" style="float:right" width="250" /><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/2-most-commit-language.svg" width="250" /></p> 
+<p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/3-stats.svg" width="250" style="float:right"/><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/4-productive-time.svg" width="250" /></p> 
 
 <!--
 **zhangyusheng211/zhangyusheng211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
