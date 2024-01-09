@@ -7,11 +7,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/0-profile-details.svg" alt="Metrics" width="400"></p>
 
 <p><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/1-repos-per-language.svg" class="ttimg"/><img src="https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/2-most-commit-language.svg" class="ttimg" /></p>
-<style>
-  .ttimg{
-  float:align;  
-  }
-</style>
+
 
 [![](https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zhangyusheng211/zhangyusheng211/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
