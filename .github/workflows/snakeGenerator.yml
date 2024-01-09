@@ -7,7 +7,7 @@ on:
     - cron:  '0 0 * * *'
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  #push: {branches: ["master", "main"]}
 # 定义权限
 permissions: 
   contents: write
