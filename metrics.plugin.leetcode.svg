@@ -69,8 +69,8 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x26</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x26</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x25</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x23</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x22</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x22</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Backtracking <span class="count">x20</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x19</span></div>
                     </div>
